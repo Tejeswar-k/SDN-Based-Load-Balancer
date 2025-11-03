@@ -10,7 +10,7 @@ A Software-Defined Networking (SDN) based dynamic load balancing system that int
 
 ## ✨ Features
 
-- ✅ **Round-Robin Load Balancing** - Equal traffic distribution
+
 - ✅ **Dynamic Load Balancing** - CPU/load-aware routing
 - ✅ **OpenFlow 1.3** - Industry-standard SDN protocol
 - ✅ **Flow-Based Architecture** - Efficient packet forwarding
