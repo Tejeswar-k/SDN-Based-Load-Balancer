@@ -199,12 +199,8 @@ dynamic-load-balancer/
 
 ## 🎯 Load Balancing Algorithms
 
-### 1. Round-Robin (Default)
-- **Strategy:** Distribute requests sequentially
-- **Use Case:** Homogeneous servers
-- **Pros:** Simple, predictable, equal distribution
 
-### 2. Dynamic (CPU-Based)
+### . Dynamic (CPU-Based)
 - **Strategy:** Route to least-loaded server
 - **Use Case:** Heterogeneous servers or variable workloads
 - **Pros:** Adaptive, better resource utilization
